@@ -1,0 +1,16 @@
+value, is McNugget?
+-1, false
+0, true
+1, false
+5, false
+6, true
+8, false
+9, true
+10, false
+12, true
+14, false
+15, true
+18, true
+22, false
+42, true
+43, false
